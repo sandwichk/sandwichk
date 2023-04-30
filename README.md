@@ -4,5 +4,5 @@
 </p>
 
 ## Skills
-**UI/UX** design
-**Languages:** C++, Lua, Python
+- **[🎨🖼] UI/UX design**
+- **[👨🏻‍💻] C++, Lua, Python**
